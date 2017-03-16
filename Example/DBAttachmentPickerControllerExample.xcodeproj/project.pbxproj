@@ -22,6 +22,7 @@
 		9F196F681E7A9B0800F7E828 /* DBAssetGroupsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3849AAB1C9C3D8C00D12EEF /* DBAssetGroupsViewController.m */; };
 		9F196F691E7A9B0800F7E828 /* DBAssetItemsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3849AAE1C9C3D8C00D12EEF /* DBAssetItemsViewController.m */; };
 		9F196F6A1E7A9B2100F7E828 /* DBAttachmentPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = C3134EE31C9C323C0023B9E6 /* DBAttachmentPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9F196F6E1E7A9CAC00F7E828 /* AttachmentPickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F196F531E7A9AE000F7E828 /* AttachmentPickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A401D4F51D537AEC006B2909 /* DBAttachmentPickerController.strings in Resources */ = {isa = PBXBuildFile; fileRef = A401D4F71D537AEC006B2909 /* DBAttachmentPickerController.strings */; };
 		A401D4FE1D5545F5006B2909 /* DBAttachmentPickerController.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = A401D5001D5545F5006B2909 /* DBAttachmentPickerController.stringsdict */; };
 		A41C4BD71D557B9A002FEA0B /* NSBundle+DBLibrary.m in Sources */ = {isa = PBXBuildFile; fileRef = A41C4BD61D557B9A002FEA0B /* NSBundle+DBLibrary.m */; };
@@ -343,6 +344,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F196F6A1E7A9B2100F7E828 /* DBAttachmentPickerController.h in Headers */,
+				9F196F6E1E7A9CAC00F7E828 /* AttachmentPickerController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
